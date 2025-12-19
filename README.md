@@ -25,3 +25,7 @@ To add a layer of prescriptive intelligence, Subqueries are integrated into the 
 The resulting output is a multi-dimensional Trend Report that showcases key metrics: Monthly Revenue, Month-on-Month (MoM) Growth, Regional Rankings, and Cumulative Year-to-Date (YTD) Totals. This report reveals critical insights, such as instances where a salesperson may have high raw revenue but low regional rank, or where a region is showing steady growth despite lower baseline figures. In conclusion, this advanced SQL program demonstrates that the strategic combination of CTEs, Window Functions, and Subqueries transforms raw data into a strategic asset, enabling more precise forecasting and optimized resource allocation in a competitive market.
 
 # OUTPUT OF THIS TASK
+
+![Image](https://github.com/user-attachments/assets/b68ea3f2-978b-44ef-8f81-3fe5676e0381)
+
+![Image](https://github.com/user-attachments/assets/ec815b30-2739-41b0-ad6a-baf3baba24ea)
